@@ -1,6 +1,6 @@
 🚀 Estudante de Informática | Desenvolvedor Front-End em Formação
 
-Olá! 👋 Tenho 16 anos e sou estudante de Informática no IFPE-Garanhuns, apaixonado por transformar linhas de código em experiências incríveis! 🖥️ Atualmente, estou focado no desenvolvimento front-end, buscando aprimorar minhas habilidades em HTML, CSS e JavaScript.
+Olá! 👋 Tenho 17 anos e sou estudante de Informática no IFPE-Garanhuns, apaixonado por transformar linhas de código em experiências incríveis! 🖥️ Atualmente, estou focado no desenvolvimento front-end, buscando aprimorar minhas habilidades em HTML, CSS e JavaScript.
 
 📚 Educação:
 Cursando Informática no IFPE-Garanhuns
