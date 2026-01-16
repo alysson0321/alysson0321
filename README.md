@@ -1,22 +1,25 @@
-# Oi, eu sou o Alysson! 👋
+# Olá, sou Alysson Felipe! 👋
 
-### 🎓 Estudante de Informática no IFPE | Desenvolvedor Web
+### 💻 Técnico em Informática | Graduando em ADS
 
-Sou apaixonado por tecnologia e por transformar linhas de código em soluções reais. Atualmente, estou focado no desenvolvimento **Front-end** e expandindo meus conhecimentos em **Back-end** (Node.js e Banco de Dados).
+Sou um desenvolvedor apaixonado por transformar problemas reais em soluções de código eficientes. **Técnico em Informática formado pelo IFPE**, possuo base sólida em lógica e desenvolvimento web.
 
-Recentemente, tive meu **PPO aprovado** com nota máxima, onde desenvolvi um sistema completo de gestão para uma paróquia local.
+A partir de Março/2026, inicio minha graduação em **Análise e Desenvolvimento de Sistemas**, buscando aprofundar ainda mais meus conhecimentos em arquitetura de software e back-end.
+
+Atualmente, meu foco técnico está na stack **Node.js + PostgreSQL**.
 
 ---
 
 ## 🚀 Projeto em Destaque
 
-### ⛪ [Sistema de Gestão Paroquial (PPO)](https://github.com/alysson0321/paroquia-Santa-Teresinha)
-> *Projeto profissional orientado aprovado no IFPE.*
+### ⛪ [Sistema de Gestão Paroquial (TCC)](https://github.com/alysson0321/paroquia-Santa-Teresinha)
+> *Projeto de conclusão de curso com aplicação real.*
 
-Desenvolvi um sistema web para modernizar a gestão da **Paróquia Santa Teresinha**, resolvendo problemas reais de organização e comunicação.
+Desenvolvi uma solução web completa para modernizar a gestão da **Paróquia Santa Teresinha** (Jucati-PE). O sistema saiu do papel e resolveu gargalos reais de organização da instituição.
 
-* **O que o sistema faz:** Cadastro de Intenções de Missa, Gestão Financeira (Dízimo) e Painel Administrativo.
-* **Tecnologias:** Node.js, Express, PostGreSQL e HTML/CSS.
+* **O Desafio:** Substituir planilhas manuais e cadernos por um sistema digital seguro.
+* **A Solução:** Painel administrativo para cadastro de fiéis, gestão financeira (Dízimo) e agendamento de intenções de missa.
+* **Tech Stack:** Node.js, Express, PostgreSQL e Front-end responsivo.
 
 [🔗 Ver código e documentação](https://github.com/alysson0321/paroquia-Santa-Teresinha)
 
@@ -25,15 +28,16 @@ Desenvolvi um sistema web para modernizar a gestão da **Paróquia Santa Teresin
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PostGreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  &nbsp;
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 <br>
@@ -52,6 +56,8 @@ Desenvolvi um sistema web para modernizar a gestão da **Paróquia Santa Teresin
 ---
 
 ## 📫 Vamos conectar?
+
+Estou em busca da minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior**. Se você procura alguém dedicado e com boa base técnica, vamos conversar!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alysson-felipe-b456a92a7/" target="_blank">
