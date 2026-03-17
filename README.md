@@ -7,7 +7,7 @@
 Tenho interesse em **desenvolvimento web full stack**, com foco em back-end. 
 Gosto de construir aplicações que resolvam problemas reais, trabalhando desde a modelagem do banco de dados até a implementação da API e interface.
 
-Atualmente estou aprofundando meus estudos em **Node.js, PostgreSQL e boas práticas de desenvolvimento back-end**.
+Atualmente estou aprofundando meus estudos em **Laravel, MySQL e boas práticas de desenvolvimento back-end**.
 
 Também tenho interesse em **Linux, performance de sistemas e organização de ambientes de desenvolvimento**.
 
@@ -82,7 +82,7 @@ https://github.com/alysson0321/paroquia-Santa-Teresinha
 
 <div align="center">
   <a href="https://github.com/alysson0321">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alysson0321&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alysson0321&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysson0321&layout=compact&theme=dracula"/>
   </a>
 </div>
